@@ -1,1 +1,2 @@
 # Heart-Disease-Prediction-Using-Machine-Learning
+Developed a machine learning model to predict the likelihood of heart disease using health parameters such as blood pressure, cholesterol, and maximum heart rate. Implemented multiple classification algorithms (Logistic Regression, Random Forest, SVM) and compared accuracy to select the best-performing model. Enhanced decision-making support in healthcare using data-driven insights.
